@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3019915300
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene/ball.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: scene/cube.unity3d
+      Dependencies: {}
